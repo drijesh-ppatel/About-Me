@@ -1,5 +1,5 @@
 # **Drijesh PPatel**
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=18&letterSpacing=1px&duration=5000&pause=1500&color=38C2FF&vCenter=true&width=435&lines=Engineering+Leader.+Speaker.+Mentor.)](https://git.io/typing-svg)
 [![](https://img.shields.io/badge/Drijesh-Patel-brightgreen.svg?colorB=00ff00)](https://topmate.io/drijesh)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![GitHub Drijesh PPatel](https://img.shields.io/github/followers/drijesh-ppatel?label=follow&style=social)](https://github.com/drijesh-ppatel)
