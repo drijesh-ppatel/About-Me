@@ -40,6 +40,13 @@ I'm **Drijesh PPatel**, a **Cybersecurity and Generative AI Thought Leader**, an
 - **Microsoft Certified Azure Data Engineer**
 - **Oracle Certified SQL Expert – OCE**
 - **Informatica PowerCenter Developer Specialist**
+
+### **🏆 Honours & Awards*
+
+- [Rising Tech Expert 2024](https://reader.magzter.com/preview/kaxjuh89g5gnxm8xl4et16458640/1645864)
+- [20 Influential Personalities of India](https://www.aninews.in/news/business/business/meet-20-influential-personalities-who-are-breaking-barriers-and-shaping-the-future-in-202320231020160802/)
+- [40 under 40 - Influential Leaders](https://magazines.insightssuccess.in/2023/the-40-under-40-influential-leaders-2023-may2023/#page=52)
+- [India's 100 Future Leaders](https://glantorx.com/2023/03/17/list-of-future-leaders-2023-by-glantor-x-released/)
   
 ---
 
