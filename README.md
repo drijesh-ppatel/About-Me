@@ -25,18 +25,10 @@ I'm **Drijesh PPatel**, a **Cybersecurity and Generative AI Thought Leader**, an
 * AI-driven innovation
 * Mentorship and leadership
 
----
-
-## 🔗 **Connect with Me**
-- [GitHub](https://github.com/drijesh-ppatel)
-- [LinkedIn](https://www.linkedin.com/in/drijesh)
-- [Medium](https://medium.com/@drijesh)
-- [Instagram](https://www.instagram.com/drijeshtalks)
-- [YouTube](https://www.youtube.com/@drijeshtalks)
-- [Twitter](https://twitter.com/drijesh)
-- [Website](https://topmate.io/drijesh)
-
----
+### **📚 Publications**
+- [Streamlining Compliance and Governance with AI in Cloud-based Programs](https://www.ijfmr.com/research-paper.php?id=5213)
+- [Revolutionizing Program Evaluation with Generative AI: An Evidence-Based Methodology](https://www.ijfmr.com/research-paper.php?id=4105)
+- [Revolutionizing Project Management with Generative AI](https://isjem.com/download/revolutionizing-project-management-with-generative-ai/)
 
 ## 🛡️ **Certifications**
 -  **Certified Scrum Master (CSM)**
@@ -48,6 +40,17 @@ I'm **Drijesh PPatel**, a **Cybersecurity and Generative AI Thought Leader**, an
 - **Microsoft Certified Azure Data Engineer**
 - **Oracle Certified SQL Expert – OCE**
 - **Informatica PowerCenter Developer Specialist**
+  
+---
+
+## 🔗 **Connect with Me**
+- [GitHub](https://github.com/drijesh-ppatel)
+- [LinkedIn](https://www.linkedin.com/in/drijesh)
+- [Medium](https://medium.com/@drijesh)
+- [Instagram](https://www.instagram.com/drijeshtalks)
+- [YouTube](https://www.youtube.com/@drijeshtalks)
+- [Twitter](https://twitter.com/drijesh)
+- [Website](https://topmate.io/drijesh)
 
 ---
 
